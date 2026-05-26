@@ -1,2 +1,2 @@
 # git-practice
-revision of git 
+revision of git by using terraform code
